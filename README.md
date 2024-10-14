@@ -23,7 +23,7 @@ todo:
 - Grokking Algorithms
 - Pluralsight - 2 X DDD (late 2023)
 - Pluralsight - Grafana / prometheus (09-2024)
-  [Laravel Package Training](https://spatie.be/courses/laravel-package-training-v2)
+- [Laravel Package Training](https://spatie.be/courses/laravel-package-training-v2)
 - [Laravel Beyond Crud](https://spatie.be/courses/laravel-beyond-crud)
 - [Laravel Event Sourcing](https://spatie.be/courses/event-sourcing-in-laravel)
 - Laravel Jobs / Queues / Events - Laracasts
